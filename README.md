@@ -8,7 +8,7 @@
   ### MongoDb, Express, React, Node, Apollo/GraphQL
   
 ## Full List of Technologies
-  #### Updated as of 05/24/2023
+  #### Updated as of 06/18/2024
 
 <table>
 <tr>
