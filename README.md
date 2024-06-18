@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**muscarellaanthony/muscarellaanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Tech Stack:
+  ## MongoDb, Express, React, Node, Apollo/GraphQL
+  
+## Full List of Technologies
+  #### Updated as of 05/24/2023
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<th> Languages </th>
+<th> Frameworks </th>
+  <th> Databases </th>
+<th> Other </th>
+  <th> Other </th>
+</tr>
+<tr>
+<td>
+  
+- JavaScript
+- TypeScript
+- CSS3
+- HTML5
+- Swift
+- Kotlin
+- Python
+  
+</td>
+<td>
+  
+- Node.js
+- React.js
+- JQuery
+- Express.js
+- React Native
+  
+</td>
+<td>
+  
+- mySQL
+- noSQL
+- POSGRES
+- MongoDB
+  
+</td>
+<td>
+  
+- npm
+- Docker
+- Yarn
+- Homebrew
+- Visual Studio Code
+- Jira
+- Zoom
+- Microsoft Teams
+- Slack
+- Google Chat
+- Bootstrap
+- Materialize/MUI
+- Tailwind
+- Webpack
+  
+</td>
+<td>
+  
+- Zeppelin
+- GSAP
+- GraphQL/Apollo
+- Mongoose
+- Sequelize
+- Handlebars
+- Dbeaver
+- Insomnia
+- Postman
+- Git
+- JWT
+- Google Dev Suite
+- Adobe Creative Suite
+  
+</td>
+</tr>
+</table>
