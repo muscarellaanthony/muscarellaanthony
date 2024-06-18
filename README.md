@@ -1,10 +1,10 @@
 <div align="center">
 #About Me
-  ## I am a full stack developer out of Grand Rapids Michigan. I have worked as an independent contractor and also have a backgorund in manual labor and team leading. Driven by passion, a sense of purpose, and a desire to better myself and my future, I will stop for nothing as I attempt to place myself into my software career field. My knowledge base grows everyday and I relentlessly hone my skills in order to make me the ideal software development candidate. 
+  ### I am a full stack developer out of Grand Rapids Michigan. I have worked as an independent contractor and also have a backgorund in manual labor and team leading. Driven by passion, a sense of purpose, and a desire to better myself and my future, I will stop for nothing as I attempt to place myself into my software career field. My knowledge base grows everyday and I relentlessly hone my skills in order to make me the ideal software development candidate. 
 
 
-# My Tech Stack:
-  ## MongoDb, Express, React, Node, Apollo/GraphQL
+## My Tech Stack:
+  ### MongoDb, Express, React, Node, Apollo/GraphQL
   
 ## Full List of Technologies
   #### Updated as of 05/24/2023
