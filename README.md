@@ -21,8 +21,6 @@
 - TypeScript
 - CSS3
 - HTML5
-- Swift
-- Kotlin
 - Python
   
 </td>
@@ -32,7 +30,6 @@
 - React.js
 - JQuery
 - Express.js
-- React Native
   
 </td>
 <td>
@@ -46,15 +43,10 @@
 <td>
   
 - npm
-- Docker
-- Yarn
-- Homebrew
 - Visual Studio Code
-- Jira
 - Zoom
 - Microsoft Teams
 - Slack
-- Google Chat
 - Bootstrap
 - Materialize/MUI
 - Tailwind
@@ -63,19 +55,13 @@
 </td>
 <td>
   
-- Zeppelin
-- GSAP
 - GraphQL/Apollo
 - Mongoose
 - Sequelize
 - Handlebars
-- Dbeaver
 - Insomnia
-- Postman
 - Git
 - JWT
-- Google Dev Suite
-- Adobe Creative Suite
   
 </td>
 </tr>
