@@ -22,6 +22,7 @@
 - CSS3
 - HTML5
 - Python
+- C
   
 </td>
 <td>
